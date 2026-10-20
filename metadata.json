@@ -1,0 +1,6 @@
+{
+  "name": "حفظ معاني الإنجليزي - الطالب وسيم قيمري",
+  "description": "تطبيق مخصص للطالب وسيم قيمري لحفظ معاني كلمات وقواعد الوحدة الأولى A new start عبر ضع دائرة بالتمويه الإملائي، الكتابة بالكيبورد، والربط الكوميدي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
